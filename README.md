@@ -32,7 +32,7 @@ AirBnB Clone project.
 ## Database Design
 
 
-## Feature BreakDown
+## Feature Breakdown
 
 
 ## API Security 
