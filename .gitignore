@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Pycache files
+__Pycache__/
+.pyc
+*.py[cod]
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# Ignore logs
+logs
+.log
+/logs
+
+
+#  Ignore environment variables
+.env
+.Env
+
